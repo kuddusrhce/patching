@@ -1,0 +1,12 @@
+3
+Identifying instance...
+Beginning AMI Backup for Windows2019
+Waiting for AMI Backup to complete...ami-0160bdab2a492557b
+Current state for AMI ID ami-0160bdab2a492557b is pending
+Current state for AMI ID ami-0160bdab2a492557b is pending
+Current state for AMI ID ami-0160bdab2a492557b is pending
+Current state for AMI ID ami-0160bdab2a492557b is pending
+Current state for AMI ID ami-0160bdab2a492557b is pending
+Current state for AMI ID ami-0160bdab2a492557b is available
+AMI Backup complete...available
+Patching completed for i-044e61918dbb71a70

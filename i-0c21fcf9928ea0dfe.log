@@ -1,0 +1,20 @@
+3
+Identifying instance...
+Beginning AMI Backup for Windows2016-Kuddus
+Waiting for AMI Backup to complete...ami-05b5ccd952fae8143
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is pending
+Current state for AMI ID ami-05b5ccd952fae8143 is available
+AMI Backup complete...available
+Patching completed for i-0c21fcf9928ea0dfe
